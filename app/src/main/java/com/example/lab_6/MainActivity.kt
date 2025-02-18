@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // Enable edge-to-edge display3
+        // This will make the content go under the status bar and the navigation bar
 
     }
 }
